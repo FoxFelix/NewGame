@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Admin.unity
+- path: Assets/Scene/Admin.unity
   isLoaded: 1
   isActive: 1
