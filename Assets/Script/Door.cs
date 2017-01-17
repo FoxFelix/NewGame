@@ -15,4 +15,9 @@ public class Door : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    private void OnMouseUpAsButton()
+    {
+        man.Move(this.gameObject);
+    }
 }
